@@ -1,0 +1,16 @@
+name: moj_skener
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  business_card_scanner: ^1.0.2
+  image_picker: ^1.0.7
+
+flutter:
+  uses-material-3: true
